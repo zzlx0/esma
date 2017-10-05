@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
+=======
+    "start": "index.js",
+>>>>>>> modif
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pierre Barabé",
@@ -12,7 +16,11 @@
     "discord.js": "^11.2.1",
     "dotenv": "^4.0.0",
     "node-opus": "^0.2.7",
+<<<<<<< HEAD
     "youtube-audio-stream": "0.0.50",
+=======
+    "opusscript": "0.0.4",
+>>>>>>> modif
     "ytdl-core": "^0.17.1"
   }
 }
